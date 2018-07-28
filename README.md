@@ -20,7 +20,7 @@ In addition the modules we installed while assembling and testing the Raspberry 
 
 `pip3 install pymongo`
 `pip3 install gridfs`
-`pip3 install picamera`
+`pip3 install picamera` `pip3 install pandas`
 
 Once you have these modules installed, you will need to do a few things to get ready to send sensor data and images out to mLab.
 
@@ -41,7 +41,7 @@ On PythonAnywhere
 -----------------
 
 `pip3 install pymongo`
-`pip3 install gridfs`
+`pip3 install gridfs` `pip3 install pandas`
 
 Setting up the Pi Code
 ----------------------
